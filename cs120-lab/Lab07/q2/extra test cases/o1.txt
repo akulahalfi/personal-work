@@ -1,4 +1,0 @@
-407 has the cube property. (64 + 0 + 343)
-370 has the cube property. (27 + 343 + 0)
-371 has the cube property. (27 + 343 + 1)
-153 has the cube property. (1 + 125 + 27)
