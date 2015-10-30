@@ -1,0 +1,139 @@
+#  1:   2 is prime.
+#  2:   3 is prime.
+#  3:   5 is prime.
+#  4:   7 is prime.
+#  5:  11 is prime.
+#  6:  13 is prime.
+#  7:  17 is prime.
+#  8:  19 is prime.
+#  9:  23 is prime.
+# 10:  29 is prime.
+# 11:  31 is prime.
+# 12:  37 is prime.
+# 13:  41 is prime.
+# 14:  43 is prime.
+# 15:  47 is prime.
+# 16:  53 is prime.
+# 17:  59 is prime.
+# 18:  61 is prime.
+# 19:  67 is prime.
+# 20:  71 is prime.
+# 21:  73 is prime.
+# 22:  79 is prime.
+# 23:  83 is prime.
+# 24:  89 is prime.
+# 25:  97 is prime.
+# 26: 101 is prime.
+# 27: 103 is prime.
+# 28: 107 is prime.
+# 29: 109 is prime.
+# 30: 113 is prime.
+# 31: 127 is prime.
+# 32: 131 is prime.
+# 33: 137 is prime.
+# 34: 139 is prime.
+# 35: 149 is prime.
+# 36: 151 is prime.
+# 37: 157 is prime.
+# 38: 163 is prime.
+# 39: 167 is prime.
+# 40: 173 is prime.
+# 41: 179 is prime.
+# 42: 181 is prime.
+# 43: 191 is prime.
+# 44: 193 is prime.
+# 45: 197 is prime.
+# 46: 199 is prime.
+# 47: 211 is prime.
+# 48: 223 is prime.
+# 49: 227 is prime.
+# 50: 229 is prime.
+# 51: 233 is prime.
+# 52: 239 is prime.
+# 53: 241 is prime.
+# 54: 251 is prime.
+# 55: 257 is prime.
+# 56: 263 is prime.
+# 57: 269 is prime.
+# 58: 271 is prime.
+# 59: 277 is prime.
+# 60: 281 is prime.
+# 61: 283 is prime.
+# 62: 293 is prime.
+# 63: 307 is prime.
+# 64: 311 is prime.
+# 65: 313 is prime.
+# 66: 317 is prime.
+# 67: 331 is prime.
+# 68: 337 is prime.
+# 69: 347 is prime.
+# 70: 349 is prime.
+# 71: 353 is prime.
+# 72: 359 is prime.
+# 73: 367 is prime.
+# 74: 373 is prime.
+# 75: 379 is prime.
+# 76: 383 is prime.
+# 77: 389 is prime.
+# 78: 397 is prime.
+# 79: 401 is prime.
+# 80: 409 is prime.
+# 81: 419 is prime.
+# 82: 421 is prime.
+# 83: 431 is prime.
+# 84: 433 is prime.
+# 85: 439 is prime.
+# 86: 443 is prime.
+# 87: 449 is prime.
+# 88: 457 is prime.
+# 89: 461 is prime.
+# 90: 463 is prime.
+# 91: 467 is prime.
+# 92: 479 is prime.
+# 93: 487 is prime.
+# 94: 491 is prime.
+# 95: 499 is prime.
+  4 =   2 +   2
+  6 =   3 +   3
+  8 =   3 +   5
+ 10 =   3 +   7
+ 12 =   5 +   7
+ 14 =   3 +  11
+ 16 =   3 +  13
+ 18 =   5 +  13
+ 20 =   3 +  17
+ 22 =   3 +  19
+ 24 =   5 +  19
+ 26 =   3 +  23
+ 28 =   5 +  23
+ 30 =   7 +  23
+ 32 =   3 +  29
+ 34 =   3 +  31
+ 36 =   5 +  31
+ 38 =   7 +  31
+ 40 =   3 +  37
+ 42 =   5 +  37
+ 44 =   3 +  41
+ 46 =   3 +  43
+ 48 =   5 +  43
+ 50 =   3 +  47
+ 52 =   5 +  47
+ 54 =   7 +  47
+ 56 =   3 +  53
+ 58 =   5 +  53
+ 60 =   7 +  53
+ 62 =   3 +  59
+ 64 =   3 +  61
+ 66 =   5 +  61
+ 68 =   7 +  61
+ 70 =   3 +  67
+ 72 =   5 +  67
+ 74 =   3 +  71
+ 76 =   3 +  73
+ 78 =   5 +  73
+ 80 =   7 +  73
+ 82 =   3 +  79
+ 84 =   5 +  79
+ 86 =   3 +  83
+ 88 =   5 +  83
+ 90 =   7 +  83
