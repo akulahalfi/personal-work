@@ -1,0 +1,5 @@
+Prime #0001:     2
+Prime #0002:     3
+2 primes found between 0 and 4.
+0 twin primes found between 0 and 4.
+Brun's constant with 0 twin primes is 0.000000000000.

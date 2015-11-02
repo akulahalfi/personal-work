@@ -1,0 +1,3 @@
+0 primes found between 0 and 1.
+0 twin primes found between 0 and 1.
+Brun's constant with 0 twin primes is 0.000000000000.

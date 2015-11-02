@@ -1,0 +1,367 @@
+Prime #0001:     2
+Prime #0002:     3
+Prime #0003:     5
+Prime #0004:     7
+Prime #0005:    11
+Prime #0006:    13
+Prime #0007:    17
+Prime #0008:    19
+Prime #0009:    23
+Prime #0010:    29
+Prime #0011:    31
+Prime #0012:    37
+Prime #0013:    41
+Prime #0014:    43
+Prime #0015:    47
+Prime #0016:    53
+Prime #0017:    59
+Prime #0018:    61
+Prime #0019:    67
+Prime #0020:    71
+Prime #0021:    73
+Prime #0022:    79
+Prime #0023:    83
+Prime #0024:    89
+Prime #0025:    97
+Prime #0026:   101
+Prime #0027:   103
+Prime #0028:   107
+Prime #0029:   109
+Prime #0030:   113
+Prime #0031:   127
+Prime #0032:   131
+Prime #0033:   137
+Prime #0034:   139
+Prime #0035:   149
+Prime #0036:   151
+Prime #0037:   157
+Prime #0038:   163
+Prime #0039:   167
+Prime #0040:   173
+Prime #0041:   179
+Prime #0042:   181
+Prime #0043:   191
+Prime #0044:   193
+Prime #0045:   197
+Prime #0046:   199
+Prime #0047:   211
+Prime #0048:   223
+Prime #0049:   227
+Prime #0050:   229
+Prime #0051:   233
+Prime #0052:   239
+Prime #0053:   241
+Prime #0054:   251
+Prime #0055:   257
+Prime #0056:   263
+Prime #0057:   269
+Prime #0058:   271
+Prime #0059:   277
+Prime #0060:   281
+Prime #0061:   283
+Prime #0062:   293
+Prime #0063:   307
+Prime #0064:   311
+Prime #0065:   313
+Prime #0066:   317
+Prime #0067:   331
+Prime #0068:   337
+Prime #0069:   347
+Prime #0070:   349
+Prime #0071:   353
+Prime #0072:   359
+Prime #0073:   367
+Prime #0074:   373
+Prime #0075:   379
+Prime #0076:   383
+Prime #0077:   389
+Prime #0078:   397
+Prime #0079:   401
+Prime #0080:   409
+Prime #0081:   419
+Prime #0082:   421
+Prime #0083:   431
+Prime #0084:   433
+Prime #0085:   439
+Prime #0086:   443
+Prime #0087:   449
+Prime #0088:   457
+Prime #0089:   461
+Prime #0090:   463
+Prime #0091:   467
+Prime #0092:   479
+Prime #0093:   487
+Prime #0094:   491
+Prime #0095:   499
+Prime #0096:   503
+Prime #0097:   509
+Prime #0098:   521
+Prime #0099:   523
+Prime #0100:   541
+Prime #0101:   547
+Prime #0102:   557
+Prime #0103:   563
+Prime #0104:   569
+Prime #0105:   571
+Prime #0106:   577
+Prime #0107:   587
+Prime #0108:   593
+Prime #0109:   599
+Prime #0110:   601
+Prime #0111:   607
+Prime #0112:   613
+Prime #0113:   617
+Prime #0114:   619
+Prime #0115:   631
+Prime #0116:   641
+Prime #0117:   643
+Prime #0118:   647
+Prime #0119:   653
+Prime #0120:   659
+Prime #0121:   661
+Prime #0122:   673
+Prime #0123:   677
+Prime #0124:   683
+Prime #0125:   691
+Prime #0126:   701
+Prime #0127:   709
+Prime #0128:   719
+Prime #0129:   727
+Prime #0130:   733
+Prime #0131:   739
+Prime #0132:   743
+Prime #0133:   751
+Prime #0134:   757
+Prime #0135:   761
+Prime #0136:   769
+Prime #0137:   773
+Prime #0138:   787
+Prime #0139:   797
+Prime #0140:   809
+Prime #0141:   811
+Prime #0142:   821
+Prime #0143:   823
+Prime #0144:   827
+Prime #0145:   829
+Prime #0146:   839
+Prime #0147:   853
+Prime #0148:   857
+Prime #0149:   859
+Prime #0150:   863
+Prime #0151:   877
+Prime #0152:   881
+Prime #0153:   883
+Prime #0154:   887
+Prime #0155:   907
+Prime #0156:   911
+Prime #0157:   919
+Prime #0158:   929
+Prime #0159:   937
+Prime #0160:   941
+Prime #0161:   947
+Prime #0162:   953
+Prime #0163:   967
+Prime #0164:   971
+Prime #0165:   977
+Prime #0166:   983
+Prime #0167:   991
+Prime #0168:   997
+Prime #0169:  1009
+Prime #0170:  1013
+Prime #0171:  1019
+Prime #0172:  1021
+Prime #0173:  1031
+Prime #0174:  1033
+Prime #0175:  1039
+Prime #0176:  1049
+Prime #0177:  1051
+Prime #0178:  1061
+Prime #0179:  1063
+Prime #0180:  1069
+Prime #0181:  1087
+Prime #0182:  1091
+Prime #0183:  1093
+Prime #0184:  1097
+Prime #0185:  1103
+Prime #0186:  1109
+Prime #0187:  1117
+Prime #0188:  1123
+Prime #0189:  1129
+Prime #0190:  1151
+Prime #0191:  1153
+Prime #0192:  1163
+Prime #0193:  1171
+Prime #0194:  1181
+Prime #0195:  1187
+Prime #0196:  1193
+Prime #0197:  1201
+Prime #0198:  1213
+Prime #0199:  1217
+Prime #0200:  1223
+Prime #0201:  1229
+Prime #0202:  1231
+Prime #0203:  1237
+Prime #0204:  1249
+Prime #0205:  1259
+Prime #0206:  1277
+Prime #0207:  1279
+Prime #0208:  1283
+Prime #0209:  1289
+Prime #0210:  1291
+Prime #0211:  1297
+Prime #0212:  1301
+Prime #0213:  1303
+Prime #0214:  1307
+Prime #0215:  1319
+Prime #0216:  1321
+Prime #0217:  1327
+Prime #0218:  1361
+Prime #0219:  1367
+Prime #0220:  1373
+Prime #0221:  1381
+Prime #0222:  1399
+Prime #0223:  1409
+Prime #0224:  1423
+Prime #0225:  1427
+Prime #0226:  1429
+Prime #0227:  1433
+Prime #0228:  1439
+Prime #0229:  1447
+Prime #0230:  1451
+Prime #0231:  1453
+Prime #0232:  1459
+Prime #0233:  1471
+Prime #0234:  1481
+Prime #0235:  1483
+Prime #0236:  1487
+Prime #0237:  1489
+Prime #0238:  1493
+Prime #0239:  1499
+Prime #0240:  1511
+Prime #0241:  1523
+Prime #0242:  1531
+Prime #0243:  1543
+Prime #0244:  1549
+Prime #0245:  1553
+Prime #0246:  1559
+Prime #0247:  1567
+Prime #0248:  1571
+Prime #0249:  1579
+Prime #0250:  1583
+Prime #0251:  1597
+Prime #0252:  1601
+Prime #0253:  1607
+Prime #0254:  1609
+Prime #0255:  1613
+Prime #0256:  1619
+Prime #0257:  1621
+Prime #0258:  1627
+Prime #0259:  1637
+Prime #0260:  1657
+Prime #0261:  1663
+Prime #0262:  1667
+Prime #0263:  1669
+Prime #0264:  1693
+Prime #0265:  1697
+Prime #0266:  1699
+Prime #0267:  1709
+Prime #0268:  1721
+Prime #0269:  1723
+Prime #0270:  1733
+Prime #0271:  1741
+Prime #0272:  1747
+Prime #0273:  1753
+Prime #0274:  1759
+Prime #0275:  1777
+Prime #0276:  1783
+Prime #0277:  1787
+Prime #0278:  1789
+Prime #0279:  1801
+Prime #0280:  1811
+Prime #0281:  1823
+Prime #0282:  1831
+Prime #0283:  1847
+Prime #0284:  1861
+Prime #0285:  1867
+Prime #0286:  1871
+Prime #0287:  1873
+Prime #0288:  1877
+Prime #0289:  1879
+Prime #0290:  1889
+Prime #0291:  1901
+Prime #0292:  1907
+Prime #0293:  1913
+Prime #0294:  1931
+Prime #0295:  1933
+Prime #0296:  1949
+Prime #0297:  1951
+Prime #0298:  1973
+Prime #0299:  1979
+Prime #0300:  1987
+Prime #0301:  1993
+Prime #0302:  1997
+Prime #0303:  1999
+303 primes found between 0 and 2000.
+twin prime #   1:    3 and    5
+twin prime #   2:    5 and    7
+twin prime #   3:   11 and   13
+twin prime #   4:   17 and   19
+twin prime #   5:   29 and   31
+twin prime #   6:   41 and   43
+twin prime #   7:   59 and   61
+twin prime #   8:   71 and   73
+twin prime #   9:  101 and  103
+twin prime #  10:  107 and  109
+twin prime #  11:  137 and  139
+twin prime #  12:  149 and  151
+twin prime #  13:  179 and  181
+twin prime #  14:  191 and  193
+twin prime #  15:  197 and  199
+twin prime #  16:  227 and  229
+twin prime #  17:  239 and  241
+twin prime #  18:  269 and  271
+twin prime #  19:  281 and  283
+twin prime #  20:  311 and  313
+twin prime #  21:  347 and  349
+twin prime #  22:  419 and  421
+twin prime #  23:  431 and  433
+twin prime #  24:  461 and  463
+twin prime #  25:  521 and  523
+twin prime #  26:  569 and  571
+twin prime #  27:  599 and  601
+twin prime #  28:  617 and  619
+twin prime #  29:  641 and  643
+twin prime #  30:  659 and  661
+twin prime #  31:  809 and  811
+twin prime #  32:  821 and  823
+twin prime #  33:  827 and  829
+twin prime #  34:  857 and  859
+twin prime #  35:  881 and  883
+twin prime #  36: 1019 and 1021
+twin prime #  37: 1031 and 1033
+twin prime #  38: 1049 and 1051
+twin prime #  39: 1061 and 1063
+twin prime #  40: 1091 and 1093
+twin prime #  41: 1151 and 1153
+twin prime #  42: 1229 and 1231
+twin prime #  43: 1277 and 1279
+twin prime #  44: 1289 and 1291
+twin prime #  45: 1301 and 1303
+twin prime #  46: 1319 and 1321
+twin prime #  47: 1427 and 1429
+twin prime #  48: 1451 and 1453
+twin prime #  49: 1481 and 1483
+twin prime #  50: 1487 and 1489
+twin prime #  51: 1607 and 1609
+twin prime #  52: 1619 and 1621
+twin prime #  53: 1667 and 1669
+twin prime #  54: 1697 and 1699
+twin prime #  55: 1721 and 1723
+twin prime #  56: 1787 and 1789
+twin prime #  57: 1871 and 1873
+twin prime #  58: 1877 and 1879
+twin prime #  59: 1931 and 1933
+twin prime #  60: 1949 and 1951
+twin prime #  61: 1997 and 1999
+61 twin primes found between 0 and 2000.
+Brun's constant with 61 twin primes is 1.554881482854.
